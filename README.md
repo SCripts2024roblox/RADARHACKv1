@@ -1,5 +1,5 @@
 ### RADARHACKv1
-useing python
+using python
 ## CS2RadarHack
   ![Leak Screenshot](leaks/leak.png)
 #### WORKING IN MODES: Window, Window full screen
