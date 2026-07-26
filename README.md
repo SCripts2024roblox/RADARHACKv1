@@ -1,6 +1,7 @@
 ### RADARHACKv1
 ## CS2RadarHack
   ![Leak Screenshot](leaks/leak.png)
+#### WORKING IN MODES: Window, Window full screen
 # FIRST VERSION
 uppdated 26.07.2026
 
